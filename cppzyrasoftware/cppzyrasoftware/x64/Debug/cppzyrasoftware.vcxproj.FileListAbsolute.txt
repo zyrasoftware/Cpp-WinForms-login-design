@@ -1,0 +1,3 @@
+C:\Users\koksa\source\repos\cppzyrasoftware\cppzyrasoftware\x64\Debug\cppzyrasoftware.vcxproj.AssemblyReference.cache
+C:\Users\koksa\source\repos\cppzyrasoftware\cppzyrasoftware\x64\Debug\cppzyrasoftware.MyForm.resources
+C:\Users\koksa\source\repos\cppzyrasoftware\cppzyrasoftware\x64\Debug\cppzyrasoftware.vcxproj.GenerateResource.cache

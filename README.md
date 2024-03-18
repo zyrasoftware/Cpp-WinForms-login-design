@@ -6,4 +6,4 @@ Login design made using winform in C++ language
 
 # GENERAL VIEW
 
-![görünüm](screenshot.png)
+![görünüm](images.png)
